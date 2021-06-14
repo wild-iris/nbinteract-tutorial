@@ -86,3 +86,10 @@ Websocket closed
 [I 22:06:46.496 NotebookApp] New terminal with automatic name: 3
 TermSocket.open: 3
 TermSocket.open: Opened 3
+[W 22:16:20.822 NotebookApp] Culling 'idle' kernel 'python3' (b709e3de-3b16-40dd-86f5-31f676d44d4b) with 0 connections due to 602 seconds of inactivity.
+[I 22:16:20.823 NotebookApp] Kernel shutdown: b709e3de-3b16-40dd-86f5-31f676d44d4b
+[W 22:16:28.332 NotebookApp] 404 DELETE /user/wild-iris-nbinteract-tutorial-xxczhb6u/api/sessions/6499f5b9-b333-4d68-a113-729c2d4809f5 (63.155.85.198): Session not found: session_id='6499f5b9-b333-4d68-a113-729c2d4809f5'
+[W 22:16:28.333 NotebookApp] Session not found: session_id='6499f5b9-b333-4d68-a113-729c2d4809f5'
+[W 22:16:28.334 NotebookApp] 404 DELETE /user/wild-iris-nbinteract-tutorial-xxczhb6u/api/sessions/6499f5b9-b333-4d68-a113-729c2d4809f5 (63.155.85.198) 3.260000ms referer=https://hub-binder.mybinder.ovh/user/wild-iris-nbinteract-tutorial-xxczhb6u/notebooks/JupyterNotebook/tutorial.ipynb
+[I 22:16:28.565 NotebookApp] Kernel started: d9ae723a-4817-42d0-9d01-d123eb408b3c, name: python3
+[I 22:16:32.854 NotebookApp] Starting buffering for d9ae723a-4817-42d0-9d01-d123eb408b3c:2ca50db187054e02917ee5ce3c3e7a3d
